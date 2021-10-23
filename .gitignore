@@ -3,4 +3,6 @@ config.json
 # binaries
 go-hexagonal-arch
 
+./main
+./main.exe
 /vendor
